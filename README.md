@@ -21,7 +21,7 @@ Here are some ideas to get you started:
         </a>
     </div>
     <div class="column">
-        <a href="https://www.reddit.com/user/ErikTSK">
+        <a href="https://stackoverflow.com/users/13833064/erik-b-gonzalez?tab=profile">
             <img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
         </a>
     </div>
