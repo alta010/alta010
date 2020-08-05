@@ -25,7 +25,16 @@ Here are some ideas to get you started:
 ### Languages and Tools: 
 
 
-<br>
+<img src="logos/icon-visual-studio-code.png">
+<img src="logos/icon-atom.png">
+<img src="logos/icon-python.png">
+<img src="logos/icon-java.png">
+<img src="logos/icon-c++.png">
+<img src="logos/icon-javascript.png">
+<img src="logos/icon-html-5.png">
+<img src="logos/icon-css3.png">
+<img src="logos/icon-django.png">
+<img src="logos/icon-react-native.png">
 <br>
 
 <!-- 
