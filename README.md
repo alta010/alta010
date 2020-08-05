@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+<!-- 
 [website]:
 [twitter]: https://twitter.com/ErikNTE
 [youtube]: https://www.youtube.com/channel/UCZnsoOzMGf0fm1bSzSwDDNQ?view_as=subscriber
@@ -36,3 +37,4 @@ Here are some ideas to get you started:
 [reddit]: https://www.reddit.com/user/ErikTSK
 [stack-overflow]: https://stackoverflow.com/users/13833064/erik-b-gonzalez?tab=profile
 
+--> 
