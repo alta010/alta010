@@ -15,29 +15,18 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-
-<ul if="lpro">
-    <li>
-        <a href="https://www.linkedin.com/inerik-burgueno-gonzalez-5440451b4">
-            <img src="https://img.icons8.com/android/48/000000/linkedin.png">
-        </a>
-    </li>
-    <li>
-        <a href="https://stackoverflow.com/users/13833064/erik-b-gonzalez?tab=profile">
-            <img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
-        </a>
-    </li>
-    <li>    
-        <a href="https://www.reddit.com/user/ErikTSK">
-            <img src="https://img.icons8.com/office/48/000000/reddit.png"/>
-        </a>
-    </li>
-    <li>
-        <a href="https://www.youtube.com/channel/UCZnsoOzMGf0fm1bSzSwDDNQ?view_as=subscriber">
-            <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-        </a>
-    </li>
-</ul>
+<a href="https://www.linkedin.com/inerik-burgueno-gonzalez-5440451b4">
+    <img src="https://img.icons8.com/android/48/000000/linkedin.png">
+</a>
+<a href="https://stackoverflow.com/users/13833064/erik-b-gonzalez?tab=profile">
+    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+</a>
+<a href="https://www.reddit.com/user/ErikTSK">
+    <img src="https://img.icons8.com/office/48/000000/reddit.png"/>
+</a>
+<a href="https://www.youtube.com/channel/UCZnsoOzMGf0fm1bSzSwDDNQ?view_as=subscriber">
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+</a>
 
 <br>
 
