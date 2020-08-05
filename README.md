@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<img src="icon-linkedin.png">
-<img src="icons/icon-stack-overflow.png">
-<img src="icons/icon-reddit.png">
-<img src="icons/icon-youtube.png">
+<img src="https://img.icons8.com/android/48/000000/linkedin.png"/>
+<img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+<img src="https://img.icons8.com/office/48/000000/reddit.png"/>
+<img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
 
 <br>
 
@@ -26,15 +26,15 @@ Here are some ideas to get you started:
 
 
 <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
-<img src="logos/icon-atom.png">
-<img src="logos/icon-python.png">
-<img src="logos/icon-java.png">
-<img src="logos/icon-c++.png">
-<img src="logos/icon-javascript.png">
-<img src="logos/icon-html-5.png">
-<img src="logos/icon-css3.png">
-<img src="logos/icon-django.png">
-<img src="logos/icon-react-native.png">
+<img src="https://img.icons8.com/color/48/000000/atom-editor.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/django.png"/>
+<img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
 <br>
 
 <!-- 
