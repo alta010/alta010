@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<img src="icons/icon-linkedin.png">
+<img src="icon-linkedin.png">
 <img src="icons/icon-stack-overflow.png">
 <img src="icons/icon-reddit.png">
 <img src="icons/icon-youtube.png">
