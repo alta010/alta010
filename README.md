@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/android/48/000000/linkedin.png"/>
 <img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
 <img src="https://img.icons8.com/office/48/000000/reddit.png"/>
+<a href="https://www.youtube.com/channel/UCZnsoOzMGf0fm1bSzSwDDNQ?view_as=subscriber">
 <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+</a>
 
 <br>
 
