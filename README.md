@@ -14,28 +14,30 @@ Here are some ideas to get you started:
 - 2020/2021 Goals: Contribute more to Open Source Projects, Create a 2D Game using Godot & deploying to the app store, help/motivate other coders by using the Feynman Technique, and Enter Coding Competitions.
 
 ### Connect with me:
-<div class="row">
-    <div class="column">
-        <a href="https://www.linkedin.com/in/erik-burgueno-gonzalez-5440451b4/">
-            <img src="https://img.icons8.com/android/48/000000/linkedin.png"/>
+
+
+<ul if="lpro">
+    <li>
+        <a href="https://www.linkedin.com/inerik-burgueno-gonzalez-5440451b4">
+            <img src="https://img.icons8.com/android/48/000000/linkedin.png">
         </a>
-    </div>
-    <div class="column">
+    </li>
+    <li>
         <a href="https://stackoverflow.com/users/13833064/erik-b-gonzalez?tab=profile">
             <img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
         </a>
-    </div>
-    <div clas="column">
+    </li>
+    <li>    
         <a href="https://www.reddit.com/user/ErikTSK">
             <img src="https://img.icons8.com/office/48/000000/reddit.png"/>
         </a>
-    </div>
-    <div class="column">
+    </li>
+    <li>
         <a href="https://www.youtube.com/channel/UCZnsoOzMGf0fm1bSzSwDDNQ?view_as=subscriber">
             <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
         </a>
-    </div>
-</div>
+    </li>
+</ul>
 
 <br>
 
