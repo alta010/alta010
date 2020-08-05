@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to engage in competitive gaming
 - 2020/2021 Goals: Contribute more to Open Source Projects, Create a 2D Game using Godot & deploying to the app store, help/motivate other coders by using the Feynman Technique, and Enter Coding Competitions.
 
-### Conect with me:
+### Connect with me:
 
+<img src="icons/icon-linkedin.png">
+<img src="icons/icon-stack-overflow.png">
+<img src="icons/icon-reddit.png">
+<img src="icons/icon-youtube.png">
 
 <br>
 
@@ -25,8 +29,10 @@ Here are some ideas to get you started:
 <br>
 
 [website]:
-[twitter]:
-[youtube]:
+[twitter]: https://twitter.com/ErikNTE
+[youtube]: https://www.youtube.com/channel/UCZnsoOzMGf0fm1bSzSwDDNQ?view_as=subscriber
 [instagram]:
-[linkedin]:
+[linkedin]: https://www.linkedin.com/in/erik-burgueno-gonzalez-5440451b4/
+[reddit]: https://www.reddit.com/user/ErikTSK
+[stack-overflow]: https://stackoverflow.com/users/13833064/erik-b-gonzalez?tab=profile
 
