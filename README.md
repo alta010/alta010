@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Erik - aka [alta010]
+### Hey there 👋, I'm Erik - aka [alta010]
 
 <!--
 **alta010/alta010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools: 
 
-<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/atom-editor.png"/>
+<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/atom-editor.png"/>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
