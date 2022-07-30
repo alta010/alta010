@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-### I'm a student attending Gavilan College
+### I'm a student attending community college
 
 - 🔭 I’m currently working on building a personal website/blog using Django
 - 🌱 I’m currently learning everything
