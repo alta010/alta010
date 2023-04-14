@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building a personal website/blog using Django
 - 🌱 I’m currently learning everything
-- ⚡ Fun fact: I love to engage in competitive gaming
-- 2021/2022 Goals: Contribute more to Open Source Projects, Build a personal project to deploy to the app store, help/motivate other coders by using the Feynman Technique, and Enter Coding Competitions.
 
 ### Connect with me:
 
