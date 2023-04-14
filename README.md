@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 
 ### Languages and Tools: 
 
-<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/atom-editor.png"/>
+<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -38,11 +37,7 @@ Here are some ideas to get you started:
 
 <!-- 
 [website]:
-[twitter]: https://twitter.com/ErikNTE
-[youtube]: https://www.youtube.com/channel/UCZnsoOzMGf0fm1bSzSwDDNQ?view_as=subscriber
-[instagram]:
 [linkedin]: https://www.linkedin.com/in/erik-burgueno-gonzalez-5440451b4/
-[reddit]: https://www.reddit.com/user/ErikTSK
 [stack-overflow]: https://stackoverflow.com/users/13833064/erik-b-gonzalez?tab=profile
 
 --> 
