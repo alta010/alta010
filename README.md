@@ -6,9 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-### I'm a self learnning developer
+### I'm a self learning developer
 
-- 🔭 I’m currently working on building a project with different applications using Django
 - 🌱 I’m currently learning everything
 
 ### Connect with me:
