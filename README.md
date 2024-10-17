@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/inerik-burgueno-gonzalez-5440451b4">
-    <img src="https://img.icons8.com/android/48/000000/linkedin.png">
-</a>
 <a href="https://stackoverflow.com/users/13833064/erik-b-gonzalez?tab=profile">
     <img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
 </a>
